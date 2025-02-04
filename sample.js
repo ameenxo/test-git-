@@ -1,2 +1,2 @@
-console.log("create a new branch then check it ");
+console.log("this is new2 then take this for remote repository");
 
